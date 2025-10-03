@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meghashree-v&label=Stalkers&color=a73da9&style=plastic" alt="meghashree-v" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meghashree-v" alt="meghashree-v" /></a> </p>
-
 - 🔭 I’m currently working on [Smart Surveillance System for Campus](https://github.com/Meghashree-V/smart-surveillance-system-for-campus)
 
 - 🌱 I’m currently learning **Python, SQL, Cloud Security, Advanced ML**
@@ -25,3 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meghashree-v&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="meghashree-v" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meghashree-v&show_icons=true&theme=dark&title_color=b569a4&locale=en" alt="meghashree-v" /></p>
+
